@@ -1,0 +1,32 @@
+# Licence notes for this skill pack
+
+## This repository (skill documentation)
+The skill markdown in `skills/` is provided so other agents can reuse the same
+workflow. Unless a file says otherwise, you may copy and adapt these skill docs
+for your own agent setup.
+
+These docs describe a pipeline; they do **not** grant any licence to the
+onetake software or to third-party media (photos, music, SFX).
+
+## Upstream: onetake (PolyForm Noncommercial 1.0.0)
+The motion engine used by these skills is:
+
+  https://github.com/feitangyuan/onetake
+
+Required Notice (from upstream):  
+Copyright (c) 2026 Patrick. onetake is free for noncommercial use only.
+
+Full terms: https://polyformproject.org/licenses/noncommercial/1.0.0  
+Also see the `LICENSE` file inside the onetake repository.
+
+**Do not use onetake (including rendering films with it) for commercial /
+monetised work** unless you have a separate commercial licence from the
+licensor. For commercial projects, reuse only the editorial method from these
+skills and produce the film in another tool (After Effects, DaVinci Resolve,
+Unreal Sequencer, etc.).
+
+## Third-party assets
+When following the skills, credit and comply with each asset's own licence
+(Wikimedia, Flickr CC, Kevin MacLeod / CC BY, Kenney CC0, University of Iowa
+MIS samples, Voxengo IR, Noto fonts / OFL, etc.). Keep a CREDITS file in each
+film project.

@@ -1,0 +1,13 @@
+.DS_Store
+*.mp4
+*.wav
+*.wav.bak
+work/
+film/
+assets/real/
+__pycache__/
+.venv/
+node_modules/
+*.pyc
+.env
+credentials*
